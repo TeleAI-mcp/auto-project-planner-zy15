@@ -1,2 +1,3 @@
-# auto-project-planner-zy15
-Automated issue comment bot repository
+# Auto Project Planner Zy15
+
+Automated issue comment bot repository.
